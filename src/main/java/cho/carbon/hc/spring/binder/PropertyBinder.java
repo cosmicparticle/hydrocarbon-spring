@@ -19,8 +19,6 @@ import cho.carbon.bond.utils.Assert;
  * <p>Description: </p><p>
  * 用于将数据绑定到对象的属性当中
  * </p>
- * @author wnq Zhang
- * @date 2020年2月6日 下午4:09:28
  */
 public class PropertyBinder {
 	private Object target;

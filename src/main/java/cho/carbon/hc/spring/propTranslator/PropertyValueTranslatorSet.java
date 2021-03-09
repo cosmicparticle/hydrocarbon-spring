@@ -14,8 +14,6 @@ import cho.carbon.hc.spring.propTranslator.translator.DefaultPropertyValueTransl
  * 该对象可以按顺序存放多个转换器，默认已经有一个{@link DefaultPropertyValueTranslator}对象。<br/>
  * parser在转换时，会从对应的转换器集合对象中，按照存放顺序的先后，倒序获得第一个匹配的转换器，并使用该转换器对字段进行转换。<br/>
  * </p>
- * @author wnq Zhang
- * @date 2020年12月28日 下午4:14:50
  */
 public class PropertyValueTranslatorSet{
 	

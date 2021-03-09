@@ -13,8 +13,6 @@ import cho.carbon.bond.utils.FormatUtils;
  * 属性反射转换器。
  * 通过反射获得属性的setter，然后将值设置到对象的属性内
  * </p>
- * @author wnq Zhang
- * @date 2020年2月8日 上午9:48:04
  */
 public class ReflectSetValueConverter implements PropertyValueConverter<Object, Object>{
 

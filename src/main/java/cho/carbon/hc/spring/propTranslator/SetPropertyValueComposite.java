@@ -6,8 +6,6 @@ package cho.carbon.hc.spring.propTranslator;
  * <p>Description: </p><p>
  * 设置值的字段对象。在设置值时使用
  * </p>
- * @author wnq Zhang
- * @date 2020年12月28日 下午4:26:27
  */
 public interface SetPropertyValueComposite extends PropertyValueComposite{
 	/**

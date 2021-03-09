@@ -8,8 +8,6 @@ import cho.carbon.hc.spring.propTranslator.PropertyValueTranslator;
  * <p>Description: </p><p>
  * 
  * </p>
- * @author wnq Zhang
- * @date 2020年12月28日 上午9:12:05
  */
 public abstract class AbstractPropertyValueTranslator implements PropertyValueTranslator{
 }

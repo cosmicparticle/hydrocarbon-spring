@@ -8,8 +8,6 @@ import org.springframework.expression.Expression;
  * <p>Description: </p><p>
  * 对象属性接口。实现该接口的对象将可以获得要处理的字段的相关信息
  * </p>
- * @author wnq Zhang
- * @date 2020年12月28日 下午4:04:06
  */
 public interface PropertyValueComposite {
 

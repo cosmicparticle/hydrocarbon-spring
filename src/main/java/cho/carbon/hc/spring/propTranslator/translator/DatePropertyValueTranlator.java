@@ -15,8 +15,6 @@ import cho.carbon.hc.spring.propTranslator.SetPropertyValueComposite;
  * <p>Description: </p><p>
  * 日期字段转换器
  * </p>
- * @author wnq Zhang
- * @date 2020年12月28日 下午4:41:35
  */
 public class DatePropertyValueTranlator extends AbstractPropertyValueTranslator{
 

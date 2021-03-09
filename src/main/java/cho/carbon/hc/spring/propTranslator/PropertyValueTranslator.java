@@ -8,8 +8,6 @@ package cho.carbon.hc.spring.propTranslator;
  * 字段转换器接口。
  * 该对象可以将符合条件的字段用特定的方法转换成另一个字段值，用于该字段值的获取和设置。
  * </p>
- * @author wnq Zhang
- * @date 2020年12月28日 下午4:07:58
  */
 public interface PropertyValueTranslator{
 	/**

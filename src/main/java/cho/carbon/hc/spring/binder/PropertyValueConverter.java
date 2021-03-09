@@ -9,8 +9,6 @@ import cho.carbon.hc.spring.binder.PropertyValueConvertException;
  * <p>Description: </p><p>
  * 用于设置属性时的值转换
  * </p>
- * @author wnq Zhang
- * @date 2020年2月8日 上午8:59:44
  * @param <T>设置属性的目标对象类型
  * @param <V>转换后的值类型
  */
